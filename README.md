@@ -69,3 +69,6 @@ processed_data = process_surf_data(data)
 - Predictive models for surf forecasting
 - API for accessing processed data
 - Mobile application integration
+
+## License
+[MIT License](LICENSE)
